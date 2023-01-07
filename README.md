@@ -12,6 +12,18 @@ This package can be installed from [PyPi](https://pypi.org/project/AI-Jarvis/) b
 pip install AI-Jarvis
 ```
 
+## Create a Chat Data Txt File
+```
+>> QNA Chat Txt File:- DataBase\\qna_log.txt
+>> ChattterBot Txt File:- DataBase\\chat_log.txt
+```
+
+## Create a API
+[OpenAI API] (https://beta.openai.com/) and create a api txt file
+'''
+>> API Txt File:- Data\\Api.txt
+'''
+
 ## QNA Function
 ```
 from AI_Jarvis import QNA
@@ -20,7 +32,8 @@ print(QNA.Questions_Answers("What is python?"))
 ## Output
 >> **Question:** What is python? 
 > 
->> **Answer:**  Python is a programming language.  
+>> **Answer:**  Python is a programming language.
+
 ## ChatBot Function
 ```
 from AI_Jarvis import Brain
@@ -30,11 +43,13 @@ print(Brain.ChatBot_Brain("What is your name?"))
 >> **You:** What is your name?   
 > 
 >> **Jarvis:** My name is Jarvis. 
+
 ## Speak Function
 ```
 from AI_Jatvis import Speak
 Speak.Speak("Hi I Am Rishabh...!!")
 ```
+
 ## Output
 >> **Speak** Hi I Am Rishabh...!!
 ## Hindi And English Speech-Recognition
