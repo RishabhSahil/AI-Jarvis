@@ -1,0 +1,15 @@
+LICENSE
+setup.py
+AI_Jarvis/Brain.py
+AI_Jarvis/Clap.py
+AI_Jarvis/Listen.py
+AI_Jarvis/QNA.py
+AI_Jarvis/Speak.py
+AI_Jarvis/Wakeup.py
+AI_Jarvis/__init__.py
+AI_Jarvis/test.py
+AI_Jarvis.egg-info/PKG-INFO
+AI_Jarvis.egg-info/SOURCES.txt
+AI_Jarvis.egg-info/dependency_links.txt
+AI_Jarvis.egg-info/requires.txt
+AI_Jarvis.egg-info/top_level.txt

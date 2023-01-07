@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: AI-Jarvis
+Version: 0.0.1
+Summary: AI Jarvis Tools
+Author: RISHABH-SAHIL (-R-S-)
+Author-email: githubsahil4@gmail.com
+Keywords: AI Jarvis Tools,Rishabh Tools,Jarvis Tools,AI Jarvis,Jarvis 0.2,AI Robot Tools,Jarvis,Rishabh,Rishabh Sahil,ML Jarvis,Self learning Jarvis
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+This Package Features ML ChatBot, Speak, Listing, ML QNA Bot Adding New Features
