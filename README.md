@@ -63,9 +63,15 @@ while True:
 
 ## Developer Details
 >> GitHub:- [@RishabhSahil](https://github.com/RishabhSahil).
+>> 
 >> PyPi:- [@RishabhSahil](https://pypi.org/user/RishabhSahil/).
+>> 
 >> Link:- [@RishabhSahil](https://www.linkedin.com/in/rishabhsahil/).
+>> 
 >> Twitter:- [@RishabhSahil](https://twitter.com/_rishabh_sahil_).
+>> 
 >> Facebook:- [@RishabhSahil](https://www.facebook.com/Rishabh.Sahil.RS).
+>> 
 >> Replit:- [@RishabhSahil](https://replit.com/@Sahilkumar124).
+>> 
 >> YouTube:- [@Digital Technical India](https://www.youtube.com/@digitaltechnicalindia587).
